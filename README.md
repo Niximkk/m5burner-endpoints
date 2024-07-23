@@ -1,5 +1,5 @@
 # 🚀 M5Burner Hidden Endpoints Documentation
-## PATCHED 🙂
+## PATCHED (not really) 🙂
 By sniffing requests I discovered that the [M5Burner](https://docs.m5stack.com/en/download) application from [M5Stack](https://m5stack.com/) is not secure at all! Here are some endpoints that can be exploited to create, edit and delete projects (on any account 🙃).
 
 ## ⭐ Endpoints
